@@ -1,2 +1,0 @@
-# boliloco-web
-web boliloco
